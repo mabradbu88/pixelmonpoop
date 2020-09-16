@@ -1,0 +1,86 @@
+{
+  "data": {
+    "type": "Spawn"
+  },
+  "textures": [
+    {
+      "name": "npcchat1.png"
+    },
+    {
+      "name": "shopman.png"
+    },
+    {
+      "name": "shopman3.png"
+    },
+    {
+      "name": "shopman4.png"
+    },
+    {
+      "name": "shopman5.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Bob"
+    },
+    {
+      "name": "Eito"
+    },
+    {
+      "name": "Mr. Benson"
+    },
+    {
+      "name": "Mr. Wong"
+    },
+    {
+      "name": "James"
+    },
+    {
+      "name": "Digby"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "You need some HMs? Well then, take a look?",
+      "goodbye": "come back any time."
+    },
+    {
+      "hello": "If you need to teach your Pokémon something special I can lend a hand. If one needs to relearn something, see my brother across the way.",
+      "goodbye": "Have a good day."
+    }
+  ],
+  "items": [
+    
+    {
+      "name": "pixelmon:hm1"
+    },
+    {
+      "name": "pixelmon:hm2"
+    },
+    {
+      "name": "pixelmon:hm3"
+    },
+    {
+      "name": "pixelmon:hm4"
+    },
+    {
+      "name": "pixelmon:hm5"
+    },
+    {
+      "name": "pixelmon:hm6"
+    },
+    {
+      "name": "pixelmon:hm7"
+    },
+    {
+      "name": "pixelmon:hm8"
+    },
+    {
+      "name": "pixelmon:hm9"
+    },
+    {
+      "name": "pixelmon:hm10"
+    }
+    
+  ]
+}

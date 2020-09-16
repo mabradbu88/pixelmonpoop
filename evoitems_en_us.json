@@ -1,0 +1,120 @@
+{
+  "data": {
+    "type": "Spawn"
+  },
+  "textures": [
+    {
+      "name": "punkguy.png"
+    },
+    {
+      "name": "shopman.png"
+    },
+    {
+      "name": "shopman3.png"
+    },
+    {
+      "name": "shopman4.png"
+    },
+    {
+      "name": "shopman5.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Shane"
+    },
+    {
+      "name": "Eito"
+    },
+    {
+      "name": "Mr. Benson"
+    },
+    {
+      "name": "Mr. Wong"
+    },
+    {
+      "name": "James"
+    },
+    {
+      "name": "Digby"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "If you need held evolution items, I'm your guy. Talk to Lizzy if you need stones.",
+      "goodbye": "Later!"
+    },
+    {
+      "hello": "Sup! What can I get for you today?",
+      "goodbye": "See ya later man."
+    }
+    
+  ],
+  "items": [
+    
+    
+    {
+      "name": "pixelmon:chipped_pot"
+    },
+    {
+      "name": "pixelmon:cracked_pot"
+    },
+    {
+      "name": "pixelmon:deep_sea_tooth"
+    },
+    {
+      "name": "pixelmon:deep_sea_scale"
+    },
+    {
+      "name": "pixelmon:dragon_scale"
+    },
+    {
+      "name": "pixelmon:dubious_disc"
+    },
+    {
+      "name": "pixelmon:up-grade"
+    },
+    {
+      "name": "pixelmon:electirizer"
+    },
+    {
+      "name": "pixelmon:magmarizer"
+    },
+    {
+      "name": "pixelmon:kings_rock"
+    },
+    {
+      "name": "pixelmon:metal_coat"
+    },
+    {
+      "name": "pixelmon:oval_stone"
+    },
+    {
+      "name": "pixelmon:prism_scale"
+    },
+    {
+      "name": "pixelmon:protector"
+    },
+    {
+      "name": "pixelmon:razor_claw"
+    },
+    {
+      "name": "pixelmon:razor_fang"
+    },
+    {
+      "name": "pixelmon:reaper_cloth"
+    },
+    {
+      "name": "pixelmon:sachet"
+    },
+    {
+      "name": "pixelmon:sweet_apple"
+    },
+    {
+      "name": "pixelmon:tart_apple"
+    },
+    {
+      "name": "pixelmon:whipped_dream"
+    }
+  ]
+}

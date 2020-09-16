@@ -1,0 +1,83 @@
+{
+  "data": {
+    "type": "Spawn"
+  },
+  "textures": [
+    {
+      "name": "mechanic.png"
+    },
+    {
+      "name": "shopman.png"
+    },
+    {
+      "name": "shopman3.png"
+    },
+    {
+      "name": "shopman4.png"
+    },
+    {
+      "name": "shopman5.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Dale"
+    },
+    {
+      "name": "Eito"
+    },
+    {
+      "name": "Mr. Benson"
+    },
+    {
+      "name": "Mr. Wong"
+    },
+    {
+      "name": "James"
+    },
+    {
+      "name": "Digby"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Need some machines for your workshop? Then come on down!",
+      "goodbye": "Take care now, and be mindful of your hands round the moving parts."
+    },
+    {
+      "hello": "Work smarter, not harder. Use our tools and spare your back.",
+      "goodbye": "Be sure to pika-proof your wires!"
+    }
+  ],
+  "items": [
+    
+    {
+      "name": "pixelmon:acro_bike"
+    },
+    {
+      "name": "pixelmon:mach_bike"
+    },
+    {
+      "name": "pixelmon:mechanical_anvil"
+    },
+    {
+      "name": "pixelmon:infuser"
+    },
+    {
+      "name": "pixelmon:blue_vending_machine"
+    },
+    {
+      "name": "pixelmon:item_finder"
+    },
+    {
+      "name": "pixelmon:healer"
+    },
+    {
+      "name": "pixelmon:ranch"
+    },
+    {
+      "name": "pixelmon:fossil_cleaner"
+    }
+    
+  ]
+}

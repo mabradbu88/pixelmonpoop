@@ -1,0 +1,112 @@
+{
+  "data": {
+    "type": "Spawn"
+  },
+  "textures": [
+    {
+      "name": "mechanic.png"
+    },
+    {
+      "name": "shopman.png"
+    },
+    {
+      "name": "shopman3.png"
+    },
+    {
+      "name": "shopman4.png"
+    },
+    {
+      "name": "shopman5.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Dale"
+    },
+    {
+      "name": "Eito"
+    },
+    {
+      "name": "Mr. Benson"
+    },
+    {
+      "name": "Mr. Wong"
+    },
+    {
+      "name": "James"
+    },
+    {
+      "name": "Digby"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Need some stone or agrigate? We may have what you need",
+      "goodbye": "Take it easy."
+    }
+  ],
+  "items": [
+    
+    {
+      "name": "minecraft:white_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:orange_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:magenta_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:light_blue_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:yellow_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:lime_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:pink_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:gray_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:silver_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:cyan_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:purple_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:blue_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:brown_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:green_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:red_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:black_glazed_terracotta"
+    },
+    {
+      "name": "minecraft:clay"
+    },
+    {
+      "name": "minecraft:sand"
+    },
+    {
+      "name": "minecraft:gravel"
+    },
+    {
+      "name": "minecraft:quartz_block"
+    }
+    
+  ]
+}

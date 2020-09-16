@@ -1,0 +1,120 @@
+{
+  "data": {
+    "type": "Spawn"
+  },
+  "textures": [
+    {
+      "name": "madame.png"
+    },
+    {
+      "name": "shopman.png"
+    },
+    {
+      "name": "shopman3.png"
+    },
+    {
+      "name": "shopman4.png"
+    },
+    {
+      "name": "shopman5.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Regina"
+    },
+    {
+      "name": "Eito"
+    },
+    {
+      "name": "Mr. Benson"
+    },
+    {
+      "name": "Mr. Wong"
+    },
+    {
+      "name": "James"
+    },
+    {
+      "name": "Digby"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome, I have a large selection of plates. I suspect you aren't looking for porcelain though.",
+      "goodbye": "Youngsters these days just don't appreciate good china."
+    }
+    
+  ],
+  "items": [
+    
+    {
+      "name": "pixelmon:meadow_plate"
+    },
+    {
+      "name": "pixelmon:flame_plate"
+    },
+    {
+      "name": "pixelmon:splash_plate"
+    },
+    {
+      "name": "pixelmon:sky_plate"
+    },
+    {
+      "name": "pixelmon:insect_plate"
+    },
+    {
+      "name": "pixelmon:toxic_plate"
+    },
+    {
+      "name": "pixelmon:zap_plate"
+    },
+    {
+      "name": "pixelmon:mind_plate"
+    },
+    {
+      "name": "pixelmon:stone_plate"
+    },
+    {
+      "name": "pixelmon:earth_plate"
+    },
+    {
+      "name": "pixelmon:dread_plate"
+    },
+    {
+      "name": "pixelmon:spooky_plate"
+    },
+    {
+      "name": "pixelmon:iron_plate"
+    },
+    {
+      "name": "pixelmon:fist_plate"
+    },
+    {
+      "name": "pixelmon:icicle_plate"
+    },
+    {
+      "name": "pixelmon:draco_plate"
+    },
+    {
+      "name": "pixelmon:pixie_plate"
+    },
+    {
+      "name": "pixelmon:cracked_pot"
+    },
+    {
+      "name": "pixelmon:chipped_pot"
+    },
+    
+    {
+      "name": "pixelmon:mug_base"
+    },
+    {
+      "name": "pixelmon:mug_ball"
+    },
+    {
+      "name": "pixelmon:mug_pika"
+    }    
+    
+  ]
+}

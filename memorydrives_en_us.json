@@ -1,0 +1,122 @@
+{
+  "data": {
+    "type": "Spawn"
+  },
+  "textures": [
+    {
+      "name": "supernerd.png"
+    },
+    {
+      "name": "shopman.png"
+    },
+    {
+      "name": "shopman3.png"
+    },
+    {
+      "name": "shopman4.png"
+    },
+    {
+      "name": "shopman5.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Greg"
+    },
+    {
+      "name": "Eito"
+    },
+    {
+      "name": "Mr. Benson"
+    },
+    {
+      "name": "Mr. Wong"
+    },
+    {
+      "name": "James"
+    },
+    {
+      "name": "Digby"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "W-welcome. I have drives and memories for sale.",
+      "goodbye": "See you next time."
+    },
+    {
+      "hello": "If you have a Genesect or Silvally, I have gear for them.",
+      "goodbye": "Do you think I have have too much of a niche market?"
+    },
+    {
+      "hello": "Ah, welcome. I didn't hear you enter.",
+      "goodbye": "Blane could stand to take it down a few dozen decibels."
+    }
+  ],
+  "items": [
+    
+    {
+      "name": "pixelmon:burn_drive"
+    },
+    {
+      "name": "pixelmon:chill_drive"
+    },
+    {
+      "name": "pixelmon:douse_drive"
+    },
+    {
+      "name": "pixelmon:shock_drive"
+    },
+    {
+      "name": "pixelmon:grass_memory"
+    },
+    {
+      "name": "pixelmon:fire_memory"
+    },
+    {
+      "name": "pixelmon:water_memory"
+    },
+    {
+      "name": "pixelmon:flying_memory"
+    },
+    {
+      "name": "pixelmon:bug_memory"
+    },
+    {
+      "name": "pixelmon:poison_memory"
+    },
+    {
+      "name": "pixelmon:electric_memory"
+    },
+    {
+      "name": "pixelmon:psychic_memory"
+    },
+    {
+      "name": "pixelmon:rock_memory"
+    },
+    {
+      "name": "pixelmon:ground_memory"
+    },
+    {
+      "name": "pixelmon:dark_memory"
+    },
+    {
+      "name": "pixelmon:ghost_memory"
+    },
+    {
+      "name": "pixelmon:steel_memory"
+    },
+    {
+      "name": "pixelmon:fighting_memory"
+    },
+    {
+      "name": "pixelmon:ice_memory"
+    },
+    {
+      "name": "pixelmon:dragon_memory"
+    },
+    {
+      "name": "pixelmon:fairy_memory"
+    }
+  ]
+}

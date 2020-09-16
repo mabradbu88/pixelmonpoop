@@ -1,0 +1,163 @@
+{
+  "data": {
+    "type": "Spawn"
+  },
+  "textures": [
+    {
+      "name": "shopman2.png"
+    },
+    {
+      "name": "shopman.png"
+    },
+    {
+      "name": "shopman3.png"
+    },
+    {
+      "name": "shopman4.png"
+    },
+    {
+      "name": "shopman5.png"
+    },
+    {
+      "name": "youngster5.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Logan"
+    },
+    {
+      "name": "Eito"
+    },
+    {
+      "name": "Mr. Benson"
+    },
+    {
+      "name": "Mr. Wong"
+    },
+    {
+      "name": "James"
+    },
+    {
+      "name": "Digby"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to Barry's Berries! I hope you find something you like!",
+      "goodbye": "See you next time."
+    },
+    {
+      "hello": "Hello, welcome to Barry's Berries. How may I help you?",
+      "goodbye": "Thanks for shopping at Barry's Berries. Have a nice day."
+    },
+    {
+      "hello": "Hello there! Welcome to the Shop. We get our berries fresh from local farms.",
+      "goodbye": "Thank you for shopping at our store."
+    },
+    {
+      "hello": "Welcome to our Store. Nice day for shopping, isn't it?",
+      "goodbye": "Come back soon, won't ya?"
+    },
+    {
+      "hello": "Heya, welcome to Barry's Berries! We have many specials today!",
+      "goodbye": "Come see us again, won't ya?"
+    },
+    {
+      "hello": "Hey there, welcome to Barry's Berries. Looking for anything special?",
+      "goodbye": "Okay, see ya next time."
+    },
+    {
+      "hello": "How are ya? Welcome to our store! We've got some great berries in stock.",
+      "goodbye": "Later!"
+    },
+    {
+      "hello": "Hey, welcome to Barry's Berries. I'm Logan, and our family own this store.",
+      "goodbye": "Come back again soon, kay?"
+    }
+  ],
+  "items": [
+    {
+      "name": "pixelmon:babiri_berry"
+    },
+    {
+      "name": "pixelmon:charti_berry"
+    },
+    {
+      "name": "pixelmon:chilan_berry"
+    },
+    {
+      "name": "pixelmon:chople_berry"
+    },
+    {
+      "name": "pixelmon:coba_berry"
+    },
+    {
+      "name": "pixelmon:colbur_berry"
+    },
+    {
+      "name": "pixelmon:haban_berry"
+    },
+    {
+      "name": "pixelmon:kasib_berry"
+    },
+    {
+      "name": "pixelmon:kebia_berry"
+    },
+    {
+      "name": "pixelmon:occa_berry"
+    },
+    {
+      "name": "pixelmon:passho_berry"
+    },
+    {
+      "name": "pixelmon:payapa_berry"
+    },
+    {
+      "name": "pixelmon:rindo_berry"
+    },
+    {
+      "name": "pixelmon:roseli_berry"
+    },
+    {
+      "name": "pixelmon:shuca_berry"
+    },
+    {
+      "name": "pixelmon:tanga_berry"
+    },
+    {
+      "name": "pixelmon:wacan_berry"
+    },
+    {
+      "name": "pixelmon:yache_berry"
+    },
+    {
+      "name": "pixelmon:apicot_berry"
+    },
+    {
+      "name": "pixelmon:custap_berry"
+    },
+    {
+      "name": "pixelmon:ganlon_berry"
+    },
+    {
+      "name": "pixelmon:lansat_berry"
+    },
+    {
+      "name": "pixelmon:liechi_berry"
+    },
+    {
+      "name": "pixelmon:micle_berry"
+    },
+    {
+      "name": "pixelmon:petaya_berry"
+    },
+    {
+      "name": "pixelmon:salac_berry"
+    },
+    {
+      "name": "pixelmon:starf_berry"
+    } 
+    
+  ]
+}

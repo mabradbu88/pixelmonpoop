@@ -1,0 +1,125 @@
+{
+  "data": {
+    "type": "Spawn"
+  },
+  "textures": [
+    {
+      "name": "engineer.png"
+    },
+    {
+      "name": "shopman.png"
+    },
+    {
+      "name": "shopman3.png"
+    },
+    {
+      "name": "shopman4.png"
+    },
+    {
+      "name": "shopman5.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Chip"
+    },
+    {
+      "name": "Eito"
+    },
+    {
+      "name": "Mr. Benson"
+    },
+    {
+      "name": "Mr. Wong"
+    },
+    {
+      "name": "James"
+    },
+    {
+      "name": "Digby"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Hey, how are ya? Can I interest you in any electronics today?.",
+      "goodbye": "Have a good day now!"
+    },
+    {
+      "hello": "If you need to brighen up your home, look no further.",
+      "goodbye": "Be sure to pika-proof your wires!"
+    }
+  ],
+  "items": [
+    
+    {
+      "name": "pixelmon:tv"
+    },
+    {
+      "name": "pixelmon:tv2"
+    },
+    {
+      "name": "pixelmon:tv3"
+    },
+    {
+      "name": "pixelmon:pc"
+    },
+    {
+      "name": "pixelmon:lightworkplace"
+    },
+    {
+      "name": "pixelmon:darkworkplace"
+    },
+    {
+      "name": "pixelmon:fridge"
+    },
+    {
+      "name": "pixelmon:mower"
+    },
+    {
+      "name": "pixelmon:fan"
+    },
+    {
+      "name": "pixelmon:washing_machine"
+    },
+    {
+      "name": "pixelmon:camera"
+    }, 
+    {
+      "name": "pixelmon:blue_clock"
+    },
+    {
+      "name": "pixelmon:pink_clock"
+    },
+    {
+      "name": "pixelmon:white_clock"
+    },
+    {
+      "name": "pixelmon:gray_clock"
+    },
+    {
+      "name": "pixelmon:black_clock"
+    },
+    {
+      "name": "pixelmon:purple_clock"
+    },
+    {
+      "name": "pixelmon:yellow_clock"
+    },
+    {
+      "name": "pixelmon:red_clock"
+    },
+    {
+      "name": "pixelmon:brown_clock"
+    },
+    {
+      "name": "pixelmon:green_clock"
+    },
+    {
+      "name": "pixelmon:cyan_clock"
+    },
+    {
+      "name": "pixelmon:orange_clock"
+    }
+    
+  ]
+}

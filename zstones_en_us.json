@@ -1,0 +1,164 @@
+{
+  "data": {
+    "type": "Spawn"
+  },
+  "textures": [
+    {
+      "name": "firebreather3.png"
+    },
+    {
+      "name": "shopman.png"
+    },
+    {
+      "name": "shopman3.png"
+    },
+    {
+      "name": "shopman4.png"
+    },
+    {
+      "name": "shopman5.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Blane"
+    },
+    {
+      "name": "Eito"
+    },
+    {
+      "name": "Mr. Benson"
+    },
+    {
+      "name": "Mr. Wong"
+    },
+    {
+      "name": "James"
+    },
+    {
+      "name": "Digby"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Salutations Trainer! Can I interest you in some Z Stones today?",
+      "goodbye": "Remember to practice the choreography!"
+    },
+    {
+      "hello": "Hey you! Do your Pokémon's moves need a power up? Look no further!",
+      "goodbye": "Now get out there and have some heated battles!"
+    },
+    {
+      "hello": "I can sense a great fire inside you, a burning passion for Z moves just like mine!.",
+      "goodbye": "If you need more, the blazing beacon in your soul back will guide you back."
+    }
+  ],
+  "items": [
+    
+    {
+      "name": "pixelmon:buginium_z"
+    },
+    {
+      "name": "pixelmon:dragonium_z"
+    },
+    {
+      "name": "pixelmon:darkinium_z"
+    },
+    {
+      "name": "pixelmon:electrium_z"
+    },
+    {
+      "name": "pixelmon:fairium_z"
+    },
+    {
+      "name": "pixelmon:fightinium_z"
+    },
+    {
+      "name": "pixelmon:firium_z"
+    },
+    {
+      "name": "pixelmon:flyinium_z"
+    },
+    {
+      "name": "pixelmon:ghostium_z"
+    },
+    {
+      "name": "pixelmon:grassium_z"
+    },
+    {
+      "name": "groundium_z"
+    },
+    {
+      "name": "pixelmon:icium_z"
+    },
+    {
+      "name": "pixelmon:normalium_z"
+    },
+    {
+      "name": "pixelmon:poisonium_z"
+    },
+    {
+      "name": "pixelmon:psychium_z"
+    },
+    {
+      "name": "pixelmon:rockium_z"
+    },
+    {
+      "name": "pixelmon:steelium_z"
+    },
+    {
+      "name": "pixelmon:waterium_z"
+    },
+    {
+      "name": "pixelmon:aloraichium_z"
+    },
+    {
+      "name": "pixelmon:decidium_z"
+    },
+    {
+      "name": "pixelmon:eevium_z"
+    },
+    {
+      "name": "pixelmon:incinium_z"
+    },
+    {
+      "name": "pixelmon:kommonium_z"
+    },
+    {
+      "name": "pixelmon:lunalium_z"
+    },
+    {
+      "name": "pixelmon:lycanium_z"
+    },
+    {
+      "name": "pixelmon:marshadium_z"
+    },
+    {
+      "name": "pixelmon:mewnium_z"
+    },
+    {
+      "name": "pixelmon:mimikium_z"
+    },
+    {
+      "name": "pixelmon:pikanium_z"
+    },
+    {
+      "name": "pixelmon:pikashunium_z"
+    },
+    {
+      "name": "pixelmon:primarium_z"
+    },
+    {
+      "name": "pixelmon:snorlium_z"
+    },
+    {
+      "name": "pixelmon:solganium_z"
+    },
+    {
+      "name": "pixelmon:tapunium_z"
+    },
+    {
+      "name": "pixelmon:ultranecrozium_z"
+    }
+  ]
+}

@@ -1,0 +1,143 @@
+{
+  "data": {
+    "type": "Spawn"
+  },
+  "textures": [
+    {
+      "name": "shoplady.png"
+    },
+    {
+      "name": "shopman.png"
+    },
+    {
+      "name": "shopman3.png"
+    },
+    {
+      "name": "shopman4.png"
+    },
+    {
+      "name": "shopman5.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Margaret"
+    },
+    {
+      "name": "Eito"
+    },
+    {
+      "name": "Mr. Benson"
+    },
+    {
+      "name": "Mr. Wong"
+    },
+    {
+      "name": "James"
+    },
+    {
+      "name": "Digby"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to our market sweety. Are you or your Pokémon hungry?",
+      "goodbye": "Come back soon."
+    },
+    {
+      "hello": "Oh my, you and your Pokémon are all skin and bones! We'll have to fix that.",
+      "goodbye": "Are you sure you don't have room for seconds? Come back anytime."
+    },
+    {
+      "hello": "Are you getting ready for a little adventure? Remember to prepare some food for your trip.",
+      "goodbye": "Remember to wash up before eating."
+    }
+  ],
+  "items": [
+    
+    {
+      "name": "pixelmon:big_malasada"
+    },
+    {
+      "name": "pixelmon:rage_candy_bar"
+    },
+    {
+      "name": "pixelmon:lumiose_galette"
+    },
+    {
+      "name": "pixelmon:casteliacone"
+    },
+    {
+      "name": "pixelmon:old_gateau"
+    },
+    {
+      "name": "pixelmon:lava_cookie"
+    },
+    {
+      "name": "pixelmon:shalour_sable"
+    },
+    {
+      "name": "pixelmon:berry_juice"
+    },
+    {
+      "name": "pixelmon:fresh_water"
+    },
+    {
+      "name": "pixelmon:soda_pop"
+    },
+    {
+      "name": "pixelmon:lemonade"
+    },
+    {
+      "name": "pixelmon:moomoo_milk"
+    },
+    {
+      "name": "minecraft:cooked_chicken"
+    },
+    {
+      "name": "minecraft:cooked_beef"
+    },
+    {
+      "name": "minecraft:cooked_porkchop"
+    },
+    {
+      "name": "minecraft:cooked_mutton"
+    },
+    {
+      "name": "minecraft:cooked_fish"
+    },
+    {
+      "name": "minecraft:bread"
+    },
+    {
+      "name": "minecraft:cake"
+    },
+    {
+      "name": "minecraft:cookie"
+    },
+    {
+      "name": "minecraft:melon_block"
+    },
+    {
+      "name": "minecraft_pumpkin"
+    },
+    {
+      "name": "minecraft:carrot"
+    },
+    {
+      "name": "minecraft:potato"
+    },
+    {
+      "name": "minecraft:beetroot"
+    },
+    {
+      "name": "minecraft:sugar"
+    },
+    {
+      "name": "minecraft:egg"
+    },
+    {
+      "name": "minecraft:rabbit"
+    }
+  ]
+}

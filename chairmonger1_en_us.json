@@ -1,0 +1,164 @@
+{
+  "data": {
+    "type": "Spawn"
+  },
+  "textures": [
+    {
+      "name": "shopsecondman.png"
+    },
+    {
+      "name": "shopman.png"
+    },
+    {
+      "name": "shopman3.png"
+    },
+    {
+      "name": "shopman4.png"
+    },
+    {
+      "name": "shopman5.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Thomas"
+    },
+    {
+      "name": "Eito"
+    },
+    {
+      "name": "Mr. Benson"
+    },
+    {
+      "name": "Mr. Wong"
+    },
+    {
+      "name": "James"
+    },
+    {
+      "name": "Digby"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Good day, can I help you find anything?",
+      "goodbye": "come back any time."
+    },
+    {
+      "hello": "we have various furnishings for any home or office.",
+      "goodbye": "Thank you for your business."
+    }
+  ],
+  "items": [
+    
+    {
+      "name": "pixelmon:red_cushion_chair"
+    },
+    {
+      "name": "pixelmon:yellow_cushion_chair"
+    },
+    {
+      "name": "pixelmon:green_cushion_chair"
+    },
+    {
+      "name": "pixelmon:pink_cushion_chair"
+    },
+    {
+      "name": "pixelmon:blue_cushion_chair"
+    },
+    {
+      "name": "pixelmon:black_cushion_chair"
+    },
+    {
+      "name": "pixelmon:gray_cushion_chair"
+    },
+    {
+      "name": "pixelmon:cyan_cushion_chair"
+    },
+    {
+      "name": "pixelmon:white_cushion_chair"
+    },
+    {
+      "name": "pixelmon:brown_cushion_chair"
+    },
+    {
+      "name": "pixelmon:orange_cushion_chair"
+    },
+    {
+      "name": "pixelmon:purple_cushion_chair"
+    },
+    {
+      "name": "pixelmon:red_chair"
+    },
+    {
+      "name": "pixelmon:yellow_chair"
+    },
+    {
+      "name": "pixelmon:orange_chair"
+    },
+    {
+      "name": "pixelmon:pink_chair"
+    },
+    {
+      "name": "pixelmon:purple_chair"
+    },
+    {
+      "name": "pixelmon:cyan_chair"
+    },
+    {
+      "name": "pixelmon:blue_chair"
+    },
+    {
+      "name": "pixelmon:white_chair"
+    },
+    {
+      "name": "pixelmon:gray_chair"
+    },
+    {
+      "name": "pixelmon:black_chair"
+    },
+    {
+      "name": "pixelmon:green_chair"
+    },
+    {
+      "name": "pixelmon:brown_chair"
+    },
+    {
+      "name": "pixelmon:green_folding_chair"
+    },
+    {
+      "name": "pixelmon:red_folding_chair"
+    },
+    {
+      "name": "pixelmon:blue_folding_chair"
+    },
+    {
+      "name": "pixelmon:yellow_folding_chair"
+    },
+    {
+      "name": "pixelmon:orange_folding_chair"
+    },
+    {
+      "name": "pixelmon:brown_folding_chair"
+    },
+    {
+      "name": "pixelmon:white_folding_chair"
+    },
+    {
+      "name": "pixelmon:gray_folding_chair"
+    },
+    {
+      "name": "pixelmon:black_folding_chair"
+    },
+    {
+      "name": "pixelmon:pink_folding_chair"
+    },
+    {
+      "name": "pixelmon:purple_folding_chair"
+    },
+    {
+      "name": "pixelmon:cyan_folding_chair"
+    }
+    
+  ]
+}

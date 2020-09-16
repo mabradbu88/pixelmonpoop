@@ -1,0 +1,130 @@
+{
+  "data": {
+    "type": "Spawn"
+  },
+  "textures": [
+    {
+      "name": "baker.png"
+    },
+    {
+      "name": "shopman.png"
+    },
+    {
+      "name": "shopman3.png"
+    },
+    {
+      "name": "shopman4.png"
+    },
+    {
+      "name": "shopman5.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Marcel"
+    },
+    {
+      "name": "Eito"
+    },
+    {
+      "name": "Mr. Benson"
+    },
+    {
+      "name": "Mr. Wong"
+    },
+    {
+      "name": "James"
+    },
+    {
+      "name": "Digby"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to our market. Do you need any ingredients?",
+      "goodbye": "Come again!"
+    },
+    {
+      "hello": "They say variety is the spice of life. Care to tickle your taste buds? ",
+      "goodbye": "The key to good food is quality ingredients."
+    }
+  ],
+  "items": [
+    
+    {
+      "name": "pixelmon:curry_bread"
+    },
+    {
+      "name": "pixelmon:curry_pasta"
+    },
+    {
+      "name": "pixelmon:curry_fried_food"
+    },
+    {
+      "name": "pixelmon:curry_instant_noodles"
+    },
+    {
+      "name": "pixelmon:curry_precooked_burger"
+    },
+    {
+      "name": "pixelmon:curry_sausages"
+    },
+    {
+      "name": "pixelmon:curry_bean_tin"
+    },
+    {
+      "name": "pixelmon:curry_mixed_mushrooms"
+    },
+    {
+      "name": "pixelmon:curry_potato_pack"
+    },
+    {
+      "name": "pixelmon:curry_salad_mix"
+    },
+    {
+      "name": "pixelmon:curry_spice_mix"
+    },
+    {
+      "name": "pixelmon:curry_bobs_tin"
+    },
+    {
+      "name": "pixelmon:curry_bachs_tin"
+    },
+    {
+      "name": "pixelmon:curry_brittle_bones"
+    },
+    {
+      "name": "pixelmon:curry_pungent_root"
+    },
+    {
+      "name": "pixelmon:curry_fresh_cream"
+    },
+    {
+      "name": "pixelmon:curry_packaged_curry"
+    },
+    {
+      "name": "pixelmon:curry_coconut_milk"
+    },
+    {
+      "name": "pixelmon:curry_smoke_poke_tail"
+    },
+    {
+      "name": "pixelmon:curry_large_leek"
+    },
+    {
+      "name": "pixelmon:curry_fancy_apple"
+    },
+    {
+      "name": "pixelmon:curry_boiled_egg"
+    },
+    {
+      "name": "pixelmon:curry_fruit_bunch"
+    },
+    {
+      "name": "pixelmon:curry_moomoo_cheese"
+    },
+    {
+      "name": "pixelmon:curry_gigantamix"
+    }
+  ]
+}

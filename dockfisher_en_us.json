@@ -1,0 +1,68 @@
+{
+  "data": {
+    "type": "Spawn"
+  },
+  "textures": [
+    {
+      "name": "fisherman.png"
+    },
+    {
+      "name": "shopman.png"
+    },
+    {
+      "name": "shopman3.png"
+    },
+    {
+      "name": "shopman4.png"
+    },
+    {
+      "name": "shopman5.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Willy"
+    },
+    {
+      "name": "Eito"
+    },
+    {
+      "name": "Mr. Benson"
+    },
+    {
+      "name": "Mr. Wong"
+    },
+    {
+      "name": "James"
+    },
+    {
+      "name": "Digby"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Welcome to my shop. Need any fishing supplies?",
+      "goodbye": "come back any time."
+    },
+    {
+      "hello": "Planning a trip out to sea? Don't forget to stock up.",
+      "goodbye": "Don't run along the docks now, wouldn't want to fall in."
+    }
+  ],
+  "items": [
+    
+    {
+      "name": "minecraft:boat"
+    },
+    {
+      "name": "pixelmon:old_rod"
+    },
+    {
+      "name": "pixelmon:good_rod"
+    },
+    {
+      "name": "pixelmon:lure_ball"
+    }
+    
+  ]
+}

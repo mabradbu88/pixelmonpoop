@@ -1,0 +1,158 @@
+{
+  "data": {
+    "type": "Spawn"
+  },
+  "textures": [
+    {
+      "name": "monsieur.png"
+    },
+    {
+      "name": "shopman.png"
+    },
+    {
+      "name": "shopman3.png"
+    },
+    {
+      "name": "shopman4.png"
+    },
+    {
+      "name": "shopman5.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Reginald"
+    },
+    {
+      "name": "Eito"
+    },
+    {
+      "name": "Mr. Benson"
+    },
+    {
+      "name": "Mr. Wong"
+    },
+    {
+      "name": "James"
+    },
+    {
+      "name": "Digby"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Good day Trainer, we have a wide selection of furniture for your perusal",
+      "goodbye": "Let me know if you need anything else."
+    },
+    {
+      "hello": "After a long excursion ennjoy your home in comfort with our products.",
+      "goodbye": "Remember, rest is necesary for a healthy body."
+    }
+  ],
+  "items": [
+    
+    {
+      "name": "pixelmon:red_armchair"
+    },
+    {
+      "name":"pixelmon:yellow_armchair"
+    },
+    {
+      "name": "pixelmon:orange_armchair"
+    },
+    {
+      "name": "pixelmon:pink_armchair"
+    },
+    {
+      "name": "pixelmon:purple_armchair"
+    },
+    {
+      "name": "pixelmon:cyan_armchair"
+    },
+    {
+      "name": "pixelmon:blue_armchair"
+    },
+    {
+      "name": "pixelmon:white_armchair"
+    },
+    {
+      "name": "pixelmon:gray_armchair"
+    },
+    {
+      "name": "pixelmon:black_armchair"
+    },
+    {
+      "name": "pixelmon:green_armchair"
+    },
+    {
+      "name": "pixelmon:brown_armchair"
+    },
+    {
+      "name": "pixelmon:silver_armchair"
+    },
+    {
+      "name": "pixelmon:lime_armchair"
+    },
+    {
+      "name": "pixelmon:magenta_armchair"
+    },
+    {
+      "name": "pixelmon:lightblue_armchair"
+    },
+    {
+      "name": "pixelmon:red_couch"
+    },
+    {
+      "name": "pixelmon:yellow_couch"
+    },
+    {
+      "name": "pixelmon:orange_couch"
+    },
+    {
+      "name": "pixelmon:pink_couch"
+    },
+    {
+      "name": "pixelmon:purple_couch"
+    },
+    {
+      "name": "pixelmon:cyan_couch"
+    },
+    {
+      "name": "pixelmon:blue_couch"
+    },
+    {
+      "name": "pixelmon:white_couch"
+    },
+    {
+      "name": "pixelmon:gray_couch"
+    },
+    {
+      "name": "pixelmon:black_couch"
+    },
+    {
+      "name": "pixelmon:green_couch"
+    },
+    {
+      "name": "pixelmon:brown_couch"
+    },
+    {
+      "name": "pixelmon:silver_couch"
+    },
+    {
+      "name": "pixelmon:lime_couch"
+    },
+    {
+      "name": "pixelmon:magenta_couch"
+    },
+    {
+      "name": "pixelmon:lightblue_couch"
+    },
+    {
+      "name": "pixelmon:clothed_table"
+    },
+    {
+      "name": "pixelmon:trash_can"
+    }
+    
+  ]
+}

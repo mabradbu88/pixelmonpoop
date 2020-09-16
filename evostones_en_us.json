@@ -1,0 +1,87 @@
+{
+  "data": {
+    "type": "Spawn"
+  },
+  "textures": [
+    {
+      "name": "punkgirl.png"
+    },
+    {
+      "name": "shopman.png"
+    },
+    {
+      "name": "shopman3.png"
+    },
+    {
+      "name": "shopman4.png"
+    },
+    {
+      "name": "shopman5.png"
+    }
+  ],
+  "names": [
+    {
+      "name": "Lizzy"
+    },
+    {
+      "name": "Eito"
+    },
+    {
+      "name": "Mr. Benson"
+    },
+    {
+      "name": "Mr. Wong"
+    },
+    {
+      "name": "James"
+    },
+    {
+      "name": "Digby"
+    }
+  ],
+  "chat": [
+    {
+      "hello": "Sup! Welcome to the shop. It's a littel rough around the edges, but our service is rock solid.",
+      "goodbye": "Later! Come back soon."
+    },
+    {
+      "hello": "If you need stones, I'm your girl. Shane handles the other goods.",
+      "goodbye": "Come back anytime! You can count on us to not sell out!"
+    },
+    {
+      "hello": "Hey, what can I get you today?",
+      "goodbye": "Rock on!"
+    }
+  ],
+  "items": [
+    
+    
+    {
+      "name": "pixelmon:sun_stone"
+    },
+    {
+      "name": "pixelmon:fire_stone"
+    },
+    {
+      "name": "pixelmon:water_stone"
+    },
+    {
+      "name": "pixelmon:moon_stone"
+    },
+    {
+      "name": "pixelmon:thunder_stone"
+    },
+    {
+      "name": "pixelmon:leaf_stone"
+    },
+    {
+      "name": "pixelmon:dawn_stone"
+    },
+    {
+      "name": "pixelmon:dusk_stone"
+    },
+    {
+      "name": "pixelmon:shiny_stone"
+    }
+  ]
+}
